@@ -1,4 +1,4 @@
-#ICS2O-Unit2-01-HTML-Hello_World
+# ICS2O-Unit2-01-HTML-Hello_World
 
 ![Mr Coxall's Super Linter](https://github.com/brennan-lee/ICS2O-Unit2-01-HTML-Hello_World/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)
 
